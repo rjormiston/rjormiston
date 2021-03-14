@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Richard Ormiston (@rjormiston)
+- 👀 I’m interested in Hardware and Software Development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: richardjormiston@gmail.com
