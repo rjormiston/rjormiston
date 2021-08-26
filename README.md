@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Richard Ormiston (@rjormiston)
-- 👀 I’m interested in Hardware and Software Development
-- 🌱 I’m currently studying Computer Engineering at The University of North Carolina at Charlotte
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently studying Computer Science at The University of North Carolina at Charlotte
 - 📫 How to reach me: richardjormiston@gmail.com
