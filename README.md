@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Richard Ormiston (@rjormiston)
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently studying Computer Science at The University of North Carolina at Charlotte
 - 📫 How to reach me: richardjormiston@gmail.com
